@@ -1,6 +1,7 @@
 # 📁 project-portfolio
 
 Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bundler e **TailwindCSS** para o estilo.
+
 OBS: O projeto é referente a um trabalho designado pelo Me. Prof. Valdir durante o 3° termo do curso de Análise e Desenvolvimento de Sistemas na UNIMAR - Universidade de Marília.
 
 ## 🚀 Tecnologias Utilizadas
