@@ -1,6 +1,6 @@
 # 📁 project-portfolio
 
-Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bundler e **TailwindCSS** para o estilo.
+Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bundler e **TailwindCSS** para o estilo. Ideal para apresentar suas habilidades, trajetória e projetos de forma moderna e responsiva.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -23,3 +23,20 @@ Clone o repositório e instale as dependências:
 git clone https://github.com/seu-usuario/project-portfolio.git
 cd project-portfolio
 npm install
+```
+
+### 🔄 Ambiente de Desenvolvimento (hot-reload)
+
+```bash
+npm run dev
+```
+
+### 📦 Build para Produção
+
+```bash
+npm run build
+```
+
+## 📌 Configuração
+
+Para configurações adicionais, consulte a [documentação do Vite](https://vite.dev/config/).
