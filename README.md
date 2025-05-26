@@ -8,7 +8,6 @@ Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bun
 - [Vite](https://vitejs.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vue Router](https://router.vuejs.org/) <!-- Remova se não estiver usando -->
-- [Pinia](https://pinia.vuejs.org/) <!-- Remova se não estiver usando -->
 
 ## 🛠️ Requisitos Recomendados
 
