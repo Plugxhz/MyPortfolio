@@ -1,6 +1,6 @@
 # 📁 project-portfolio
 
-Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bundler e **TailwindCSS** para o estilo. Ideal para apresentar suas habilidades, trajetória e projetos de forma moderna e responsiva.
+Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bundler e **TailwindCSS** para o estilo.
 
 ## 🚀 Tecnologias Utilizadas
 
