@@ -1,29 +1,26 @@
-# project-portfolio
+# 📁 project-portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto de portfólio desenvolvido com **Vue 3**, utilizando o **Vite** como bundler e **TailwindCSS** para o estilo. Ideal para apresentar suas habilidades, trajetória e projetos de forma moderna e responsiva.
 
-## Recommended IDE Setup
+## 🚀 Tecnologias Utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Vue Router](https://router.vuejs.org/) <!-- Remova se não estiver usando -->
+- [Pinia](https://pinia.vuejs.org/) <!-- Remova se não estiver usando -->
 
-## Customize configuration
+## 🛠️ Requisitos Recomendados
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Extensão: [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)  
+> Certifique-se de desabilitar o Vetur para evitar conflitos.
 
-## Project Setup
+## ⚙️ Instalação e Uso
 
-```sh
+Clone o repositório e instale as dependências:
+
+```bash
+git clone https://github.com/seu-usuario/project-portfolio.git
+cd project-portfolio
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
